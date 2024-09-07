@@ -1,4 +1,7 @@
-﻿namespace Assigemnt_C_03
+﻿using System.ComponentModel;
+using System.Security.Cryptography;
+
+namespace Assigemnt_C_03
 {
     internal class Program
     {
@@ -71,6 +74,21 @@
 
             //Console.WriteLine($"Max : {max}, Min : {min}");
 
+
+            #endregion
+
+            #region Question 4
+            //Q4.Write a program that allows the user to insert 
+            //an integer number then check If a number is even or odd.
+
+
+            //Console.WriteLine("Please enter an Integer Number");
+            //int Number = int.Parse(Console.ReadLine());
+
+            //if (Number % 2 == 0)
+            //    Console.WriteLine("it is even number");
+            //else
+            //    Console.WriteLine("It is an odd Number");
 
             #endregion
 
