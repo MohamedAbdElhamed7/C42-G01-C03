@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Reflection.Metadata;
 using System.Security.Cryptography;
 
 namespace Assigemnt_C_03
@@ -92,6 +93,19 @@ namespace Assigemnt_C_03
 
             #endregion
 
+            #region Question 5
+            //Q5.Write a program that takes character from the user then if it is
+            //a vowel chars(a, e, I, o, u) then print(vowel) otherwise print(consonant).
+
+            //Console.WriteLine("Please Enter a character ");
+            //char ch = Convert.ToChar(Console.ReadLine());
+
+            //if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            //    Console.WriteLine("vowel");
+            //else
+            //    Console.WriteLine("consonant");
+
+            #endregion
         }
     }
 }
