@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Reflection.Metadata;
 using System.Security.Cryptography;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Assigemnt_C_03
 {
@@ -149,6 +150,38 @@ namespace Assigemnt_C_03
             //Console.WriteLine($"Total marks = {total}");
             //Console.WriteLine($"Average Marks = {average}");
             //Console.WriteLine($"Percentage = {average}");
+            #endregion
+
+            #region Question 11
+            //Q11.Write a program to input the month number and
+            //print the number of days in that month.
+
+            //Console.WriteLine("Please Enter The month Number");
+            //int MonthNum = int.Parse(Console.ReadLine());
+
+            //switch (MonthNum)
+            //{
+            //    case 1:
+            //    case 3:
+            //    case 5:
+            //    case 7:
+            //    case 8:
+            //    case 10:
+            //    case 12:
+            //        Console.WriteLine("31");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("28");
+            //        break;
+            //    case > 12:
+            //        Console.WriteLine("Invalid Month Number");
+            //        break;
+            //    default:
+            //        Console.WriteLine("30");
+            //        break;
+            //}
+
+
             #endregion
         }
     }
