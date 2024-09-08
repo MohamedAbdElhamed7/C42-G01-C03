@@ -290,11 +290,22 @@ namespace Assigemnt_C_03
             #endregion
 
             #region Question 23
-            
+
             // d) 
             // becouse d = not the false so it will be true and it's an integer so it will be equals 1
 
-    
+
+            #endregion
+
+            #region  Question 24
+
+           // Console.WriteLine(13 / 2 + " " + 13 % 2);
+
+            //the answer : d) 6 1
+
+            // becouse 13/2 it equals 6.5 but becouse both of them are integers so the answer will be integer
+            // so it will be only 6 and 13 modulas 2 it will be only 1 and there spaces between both equation 
+            // so the final answer is 6 1
             #endregion
         }
     }
