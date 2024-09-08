@@ -298,14 +298,31 @@ namespace Assigemnt_C_03
             #endregion
 
             #region  Question 24
-
-           // Console.WriteLine(13 / 2 + " " + 13 % 2);
+            //What will be the output of the C# code given below?
+            // Console.WriteLine(13 / 2 + " " + 13 % 2);
 
             //the answer : d) 6 1
 
             // becouse 13/2 it equals 6.5 but becouse both of them are integers so the answer will be integer
             // so it will be only 6 and 13 modulas 2 it will be only 1 and there spaces between both equation 
             // so the final answer is 6 1
+            #endregion
+
+            #region Question 25
+            //What will be the output of the C# code given below?
+            // int num = 1, z = 5;
+            //if (!(num <= 0))
+            //    Console.WriteLine(++num + z++ + " " + ++z);
+            //else
+            //    Console.WriteLine(--num + z-- + " " + --z);
+
+            // the answer : d) 7 7 
+
+            // becouse the condition is not the flase(1 <= 0) so  it will be true 
+            // so the compiler will print this equation (++num + z++ + " " + ++z) and this equation 
+            // equals : num became equals 2 and z will be same value 5 and increase 1 after summition
+            // and became 6 so frist part(++num + z++) equals 7 and sec part z will increament 1 so it
+            // will be 7  so the final answer is 7 7
             #endregion
         }
     }
