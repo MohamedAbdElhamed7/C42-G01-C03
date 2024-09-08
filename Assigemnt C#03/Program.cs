@@ -183,6 +183,38 @@ namespace Assigemnt_C_03
 
 
             #endregion
+
+            #region Question 17
+            //17- Create a program that asks the user to input three points (x1, y1),
+            //(x2, y2), and (x3, y3), and determines whether these points lie on a single straight line.
+
+            //Console.WriteLine("Please Enter The Frist Point");
+            //int x1 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please Enter The Frist Point");
+            //int y1 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please Enter The Secound  Point");
+            //int x2 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please Enter The Secound Point");
+            //int y2 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please Enter The Third Point");
+            //int x3 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please Enter The Third Point");
+            //int y3 = int.Parse(Console.ReadLine());
+
+            //if (y2 - y1 / x2 - x1 == y3 - y2 / x3 - x2)
+            //    Console.WriteLine("Yes");
+            //else
+            //    Console.WriteLine("No");
+
+
+
+            #endregion
+
         }
     }
 }
