@@ -121,6 +121,16 @@ namespace Assigemnt_C_03
 
 
             #endregion
+
+            #region Question 9
+            //Q9.Write a program that takes two integers then prints the power
+
+            //Console.WriteLine("Enter Two Integers Numbers (the number and the power)");
+            //int num = int.Parse(Console.ReadLine());
+            //int pow = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine(Math.Pow(num, pow));
+            #endregion
         }
     }
 }
