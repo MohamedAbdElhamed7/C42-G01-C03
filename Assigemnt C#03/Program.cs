@@ -288,6 +288,14 @@ namespace Assigemnt_C_03
             //if there is change at value of p2 p1 will have same change also if p1 have changes
             //p2 will have  the same because p1 and p2 refere for same location at heap  
             #endregion
+
+            #region Question 23
+            
+            // d) 
+            // becouse d = not the false so it will be true and it's an integer so it will be equals 1
+
+    
+            #endregion
         }
     }
 }
