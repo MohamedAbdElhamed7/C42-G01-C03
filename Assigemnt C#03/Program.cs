@@ -131,6 +131,25 @@ namespace Assigemnt_C_03
 
             //Console.WriteLine(Math.Pow(num, pow));
             #endregion
+
+            #region Question 10
+            //Q10.10- Write a program to enter marks of five subjects and
+            //calculate total, average and percentage.
+
+            //Console.WriteLine("please Enter Your Grades");
+            //int grade1 = int.Parse(Console.ReadLine());
+            //int grade2 = int.Parse(Console.ReadLine());
+            //int grade3 = int.Parse(Console.ReadLine());
+            //int grade4 = int.Parse(Console.ReadLine());
+            //int grade5 = int.Parse(Console.ReadLine());
+
+            //int total = grade1 + grade2 + grade3 + grade4 + grade5;
+            //int average = total / 5;
+
+            //Console.WriteLine($"Total marks = {total}");
+            //Console.WriteLine($"Average Marks = {average}");
+            //Console.WriteLine($"Percentage = {average}");
+            #endregion
         }
     }
 }
